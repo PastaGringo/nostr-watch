@@ -139,6 +139,7 @@ relays:
 - wss://nostr.fmt.wiz.biz
 - wss://nostr.formigator.eu
 - wss://nostr.fractalized.ovh
+- wss://nostr.paid.relay.fractalized.ovh
 - wss://nostr.globals.fans
 - wss://nostr.gromeul.eu
 - wss://nostr.gruntwerk.org
